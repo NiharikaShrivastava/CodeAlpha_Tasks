@@ -1,10 +1,12 @@
 🎯 Real-Time Object Detection & Tracking System
 
-A real-time computer vision application that detects and tracks objects in live video streams using deep learning models and tracking algorithms. The system processes each video frame, identifies objects, assigns tracking IDs, and displays results with bounding boxes in real time.
+A real-time computer vision application that detects and tracks objects in live video streams using deep learning models and tracking algorithms.
+The system processes each video frame, identifies objects, assigns tracking IDs, and displays results with bounding boxes in real time.
 
 🚀 Project Overview
 
-This project demonstrates the practical implementation of Computer Vision, Deep Learning, and Real-Time Tracking techniques. It integrates pre-trained object detection models with tracking algorithms to build an intelligent real-time monitoring system.
+This project demonstrates the practical implementation of Computer Vision, Deep Learning, and Real-Time Tracking techniques.
+It integrates pre-trained object detection models with tracking algorithms to build an intelligent real-time monitoring system.
 
 ✨ Features
 
@@ -60,7 +62,16 @@ Apply tracking algorithm to maintain object IDs.
 
 Display processed video with labels and tracking information.
 
-📂 Project Structure Object-Detection-Tracking/ │ ├── main.py ├── detector.py ├── tracker.py ├── models/ ├── videos/ ├── utils/ └── README.md
+📂 Project Structure
+Object-Detection-Tracking/
+│
+├── main.py
+├── detector.py
+├── tracker.py
+├── models/
+├── videos/
+├── utils/
+└── README.md
 
 ⚙️ Installation & Setup
 
@@ -68,13 +79,16 @@ Clone the repository
 
 git clone https://github.com/your-username/object-detection-tracking.git
 
+
 Navigate into project directory
 
 cd object-detection-tracking
 
+
 Install dependencies
 
 pip install -r requirements.txt
+
 
 Run the project
 
@@ -104,30 +118,9 @@ Focused on solving real-world monitoring and automation problems
 
 📸 Output Preview
 
-photo
+![photo](https://github.com/user-attachments/assets/48501975-feb8-4a76-a710-63197311883c)
+
 
 📜 License
 
 This project is licensed under the MIT License.
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-Jupyter Notebook
-100.0%
-Footer
